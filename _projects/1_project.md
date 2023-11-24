@@ -1,81 +1,90 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Octarina
+description: Octarina is a physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Octarina is a physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+You play as an adorable little octopus, which is trapped inside an aquarium for its whole life. Not as a pet, but rather as a sushi ingredient. Escape your captivity and find a way out before it's too late! Use the sticky abilities of Octarina to jump, climb and cause mayhem in the factory. Discover your way to regain freedom!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Octarina/Octarina12.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Octarina/Octarina13.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Octarina/Octarina9.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+You'll have to find a way to escape your current situation. Octarina has the ability to stick to its environment and objects. You explore the factory and try to open up new ways. To do that you climb up walls, push buttons and throw around various things to work your way through the factory to escape. There are many dangers but also secrets in the level which will challenge your finesse.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Octarina/Octarina4.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina14.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina18.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+The game character is a highly versatile ragdoll octopus which is able to stick to the environment and to objects with each of its tentacles. With these abilities Octarina is able to throw around objects and travers the levels in a completely new way. Therefore, the levels are designed to feature high interactability and a lot of destructible objects. Further, puzzles are designed to be solved in many different ways and feature hidden secretsto encourage you to replay the levels. The game was made using Unreal Engine 4.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina10.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina17.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina6.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina20.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Additionally to its main storyline, Octarina contains two other challenging game modes so far. Firstly, in the “Checkpoint Race” gamemode the octopus has to navigate through the factory and reach different checkpoints within a certain timeframe. The second gamemode is “The Floor is Lava". Obviously you are not allowed to touch or fall into the hot lava. There is a specific way through the level. Try to be the fastest.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina1.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina2.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina7.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Game Mode: Floor is Lava
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina8.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina5.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Octarina/Octarina3.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Game Mode: Checkpoint Race
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
