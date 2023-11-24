@@ -2,7 +2,7 @@
 layout: page
 title: Saving Easter
 description: A mobile-mini Game where the player plays the Easter Bunny in their air plane to defeat the evil chickens trying to steal Easter.
-img: assets/SavingEaster/IconBunny.png
+img: assets/img/SavingEaster/IconBunny.png
 importance: 3
 category: master
 ---
@@ -14,13 +14,13 @@ A short Gameplay video can be seen on <a href="https://www.youtube.com/watch?v=3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/IconBunny_original.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/IconBunny_original.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/Bunny1.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/Bunny1.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/Bunny2.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/Bunny2.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,13 +29,13 @@ A short Gameplay video can be seen on <a href="https://www.youtube.com/watch?v=3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/ChickenSummary.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/ChickenSummary.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/ThreeDifficulties.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/ThreeDifficulties.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/SavingEaster/ResponsiveDesign.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SavingEaster/ResponsiveDesign.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
