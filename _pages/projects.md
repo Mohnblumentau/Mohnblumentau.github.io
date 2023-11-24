@@ -5,7 +5,7 @@ permalink: /projects/
 description: A list of project finished during my bachelor's and master's degree.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [master, bachelor, other]
 horizontal: false
 ---
 

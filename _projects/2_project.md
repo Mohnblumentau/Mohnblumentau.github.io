@@ -4,7 +4,7 @@ title: Carotic
 description: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where the players control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
 img: assets/img/Carotic/Carotic19.jpg
 importance: 2
-category: work
+category: master
 ---
 
 In order to gain points the other players must be destroyed by dashing into them. The game has different play modes like Hide and Seek, Reach the Goals, Free for all Race, Destroy the Town and Krakattack.

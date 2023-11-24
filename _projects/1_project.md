@@ -4,12 +4,12 @@ title: Octarina
 description: Octarina is a physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 img: assets/img/Octarina/Octarina_Keyart.jpg
 importance: 1
-category: work
+category: master
 ---
 
 You play as an adorable little octopus, which is trapped inside an aquarium for its whole life. Not as a pet, but rather as a sushi ingredient. Escape your captivity and find a way out before it's too late! Use the sticky abilities of Octarina to jump, climb and cause mayhem in the factory. Discover your way to regain freedom!
 
-Additional information about the game can be found on the <a href="https://portfolio.fh-salzburg.ac.at/projects/2020-carotic">Octarina Portfolio Page</a> of FH Salzburg. It has also been released on <a href="https://store.steampowered.com/app/1503280/Octarina/">Steam</a>.
+Additional information about the game can be found on the <a href="https://portfolio.fh-salzburg.ac.at/projects/2021-octarina">Octarina Portfolio Page</a> of FH Salzburg. It has also been released on <a href="https://store.steampowered.com/app/1503280/Octarina/">Steam</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
