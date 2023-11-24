@@ -31,7 +31,7 @@ My projects:
         {% include figure.html path="assets/img/Octarina/Octarina_Keyart.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
+
 <div class="caption">
     Octarina: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 </div>
@@ -41,7 +41,7 @@ My projects:
         {% include figure.html path="assets/img/Carotic/Carotic19.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
+
 <div class="caption">
     Carotic: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
 </div>
