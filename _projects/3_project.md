@@ -31,15 +31,25 @@ A short Gameplay video can be seen on <a href="https://www.youtube.com/watch?v=3
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/SavingEaster/ChickenSummary.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Available Chicken Types
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/SavingEaster/ThreeDifficulties.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The Game has three difficulties, each new difficulty increases the speed of the chickens, but also spawns more of them flying towards the air plane.
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/SavingEaster/ResponsiveDesign.png" title="SavingEaster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Different Chicken Types, Game fully adaptable to different screen sizes, visual differences during multiple difficulties
+    Game is fully adaptable to different screen sizes
 </div>
-
-The Game has three difficulties, each new difficulty increases the speed of the chickens, but also spawns more of them flying towards the air plane.

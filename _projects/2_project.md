@@ -47,12 +47,9 @@ Additional information about the game can be found on the <a href="https://portf
         {% include figure.html path="assets/img/Carotic/Carotic10.jpg" title="GameMap" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Carotic/Carotic9.jpg" title="GameMap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Carotic/Carotic7.jpg" title="GameMap" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Carotic/Carotic16.jpg" title="GameMap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Carotic/Carotic21.jpg" title="GameMap" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Destructible City
 </div>
