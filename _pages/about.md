@@ -28,7 +28,7 @@ Check out two of my largest projects so far:
 
 <div class="row">
     <div class="text-center">
-        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" %}
+        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="rounded mx-auto d-block" alt ="" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ Check out two of my largest projects so far:
 
 <div class="row">
     <div class="text-center">
-        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" %}
+        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="rounded mx-auto d-block" alt ="" %}
     </div>
 </div>
 <div class="caption">
