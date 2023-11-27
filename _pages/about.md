@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Game Developer
 
@@ -28,22 +28,22 @@ My projects:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Octarina/Octarina_Keyart.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Octarina: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
+    <a href="https://mohnblumentau.github.io/projects/1_project/">Octarina</a>: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Carotic/Carotic19.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Carotic: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
+    <a href="https://mohnblumentau.github.io/projects/2_project/">Carotic</a>: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
 </div>
 
 
