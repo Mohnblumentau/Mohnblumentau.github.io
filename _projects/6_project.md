@@ -1,80 +1,17 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Disparity Algorithm
+description: Correspondence-based pairwise depth estimation with parallel acceleration
+img: assets/img/BachelorThesis.PNG
+importance: 1
+category: bachelor
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Abstract:
+The thesis covers the implementation and evaluation of a stereo vision correspondence-based depth estimation algorithm on a GPU. The results and feedback are used for a Multi-view camera system in combination with Jetson TK1 devices for parallelized image processing and the aim of this system is to estimate the depth of the scenery in front of it. The performance of the algorithm plays the key role. Alongside the implementation, the objective of this study is
+to investigate the advantages of parallel acceleration inter alia the differences to the execution on a CPU which are significant for all the function, the imposed overheads particular for a GPU application like memory transfer from the CPU
+to the GPU and vice versa as well as the challenges for real-time and concurrent execution. The study has been conducted with the aid of CUDA on three NVIDIA GPUs with different characteristics and with the aid of knowledge
+gained through extensive literature study about different depth estimation algorithms but also stereo vision and correspondence as well as CUDA in general. Using the full set of components of the algorithm and expecting (near) real-time
+execution is utopic in this setup and implementation, the slowing factors are inter alia the semi-global matching. Investigating alternatives shows that results for disparity maps of a certain accuracy are also achieved by local methods like the Hamming Distance alone and by a filter that refines the results. Furthermore, it is demonstrated that the kernel launch configuration and the usage of GPU memory types like shared memory is crucial for GPU implementations and has an impact on the performance of the algorithm. Just concurrency proves to be a more complicated task, especially in the desired way of realization. For the future work and refinement of the algorithm it is therefore recommended to invest more time into further optimization possibilities in regards of shared memory and into integrating the algorithm into the actual pipeline.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Read my full thesis <a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1247193&dswid=262">here</a>.
