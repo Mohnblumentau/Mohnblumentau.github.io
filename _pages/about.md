@@ -24,11 +24,11 @@ Currently, I am writing my master's thesis "Turning hand-drawn sketches into a f
 
 ~~
 
-My projects:
+Check out two of my largest projects so far:
 
 <div class="row">
-    <div class="row text-center">
-        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
+    <div class="text-center">
+        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" %}
     </div>
 </div>
 <div class="caption">
@@ -36,8 +36,8 @@ My projects:
 </div>
 
 <div class="row">
-    <div class="row text-center">
-        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
+    <div class="text-center">
+        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" %}
     </div>
 </div>
 <div class="caption">
