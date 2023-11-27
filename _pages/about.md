@@ -27,21 +27,19 @@ Currently, I am writing my master's thesis "Turning hand-drawn sketches into a f
 My projects:
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="text-center">
         {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     <a href="https://mohnblumentau.github.io/projects/1_project/">Octarina</a>: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="text-center">
         {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     <a href="https://mohnblumentau.github.io/projects/2_project/">Carotic</a>: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
 </div>
