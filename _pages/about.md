@@ -28,21 +28,21 @@ Check out two of my largest projects so far:
 
 <div class="row">
     <div class="text-center" style="margin: auto;">
-        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" href="https://mohnblumentau.github.io/projects/1_project/" %}
+        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" href="/projects/1_project/" %}
     </div>
 </div>
 <div class="caption">
-    <a href="https://mohnblumentau.github.io/projects/1_project/">Octarina</a>: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
+    <a href="/projects/1_project/">Octarina</a>: A physics-based 3D puzzle platformer featuring a trapped little octopus who must find a way out and escape out of a sushi factory site.
 </div>
 
 <div class="row">
     <div class="text-center" style="margin: auto;">
-        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" a href="https://mohnblumentau.github.io/projects/2_project/" %}
+        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" href="/projects/2_project/" %}
     </div>
 </div>
 <div class="caption">
-    <a href="https://mohnblumentau.github.io/projects/2_project/">Carotic</a>: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
+    <a href="/projects/2_project/">Carotic</a>: Carotic is a top-down 3D couch-co-op hide-and-seek game for 2-4 players where they control a car in a cartoony city. Their task is to drive like the other NPC cars while trying to identify the other players.
 </div>
 
 
-You can find a list of my work on my <a href="https://mohnblumentau.github.io/projects/">projects site</a>.
+You can find a list of my work on my <a href="/projects/">projects site</a>.
