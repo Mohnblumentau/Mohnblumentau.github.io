@@ -7,9 +7,9 @@ importance: 3
 category: master
 ---
 
-The 2D-Game is played with multi-touch, one finger moved air plane on the left side of the screen up and down and other tap is used to fire bullets. These bullets are shot (without buff) in a stright line from the air plane across the screen. It can hit the chicken that come flying in from the right side and have different types and effects.
+The 2D-Game is played with multi-touch, one finger moved air plane on the left side of the screen up and down and other tap is used to fire bullets. These bullets are shot (without buff) in a streight line from the air plane across the screen. It can hit the chicken that come flying in from the right side and have different types and effects.
 
-The Game was developed in Android Studio with C++.
+The Game was developed in Android Studio with C++. This Game was developed by a group of three students, I created the base game idea, developed the core mechanics and drew the art.
 A short Gameplay video can be seen on <a href="https://www.youtube.com/watch?v=3ZpEfqJs5_4">YouTube</a>.
 
 <div class="row">

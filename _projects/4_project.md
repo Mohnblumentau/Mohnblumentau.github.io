@@ -12,7 +12,7 @@ A short showcase video can be seen on <a href="https://www.youtube.com/watch?v=W
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/Cinema4D/Roof.jpg" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/Cinema4D/Roof.JPG title="Cinema4D" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/Cinema4D/SplineRoof_0.png" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
@@ -27,13 +27,13 @@ A short showcase video can be seen on <a href="https://www.youtube.com/watch?v=W
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/Cinema4D/Plant.jpg" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/Cinema4D/Plant.JPG" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/Cinema4D/Meteor_Origin.jpg" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/Cinema4D/Meteor_Origin.JPG" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/Cinema4D/Meteor_WithMaterialEffects.jpg" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/Cinema4D/Meteor_WithMaterialEffects.JPG" title="Cinema4D" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
