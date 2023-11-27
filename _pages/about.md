@@ -28,7 +28,7 @@ Check out two of my largest projects so far:
 
 <div class="row">
     <div class="text-center" style="margin: auto;">
-        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" <a href="https://mohnblumentau.github.io/projects/1_project/"></a> %}
+        {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded" alt ="" href="https://mohnblumentau.github.io/projects/1_project/" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ Check out two of my largest projects so far:
 
 <div class="row">
     <div class="text-center" style="margin: auto;">
-        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" <a href="https://mohnblumentau.github.io/projects/2_project/"></a> %}
+        {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded" alt ="" a href="https://mohnblumentau.github.io/projects/2_project/" %}
     </div>
 </div>
 <div class="caption">
