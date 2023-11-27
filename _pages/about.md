@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>nadine.bartosch@gmx.de</p>
-    <p>living in Graz, Styria</p>
+    <p>living in Graz, Austria</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
