@@ -27,7 +27,7 @@ Currently, I am writing my master's thesis "Turning hand-drawn sketches into a f
 My projects:
 
 <div class="row">
-    <div class="text-center">
+    <div class="row text-center">
         {% include figure.html path="assets/img/Octarina/Octarina_KeyartRescale.jpg" title="Octarina" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -36,7 +36,7 @@ My projects:
 </div>
 
 <div class="row">
-    <div class="text-center">
+    <div class="row text-center">
         {% include figure.html path="assets/img/Carotic/Carotic19Rescale.jpg" title="Carotic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
