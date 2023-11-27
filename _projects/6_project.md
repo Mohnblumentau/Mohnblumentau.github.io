@@ -7,7 +7,6 @@ importance: 1
 category: bachelor
 ---
 
-Abstract:
 The thesis covers the implementation and evaluation of a stereo vision correspondence-based depth estimation algorithm on a GPU. The results and feedback are used for a Multi-view camera system in combination with Jetson TK1 devices for parallelized image processing and the aim of this system is to estimate the depth of the scenery in front of it. The performance of the algorithm plays the key role. Alongside the implementation, the objective of this study is
 to investigate the advantages of parallel acceleration inter alia the differences to the execution on a CPU which are significant for all the function, the imposed overheads particular for a GPU application like memory transfer from the CPU
 to the GPU and vice versa as well as the challenges for real-time and concurrent execution. The study has been conducted with the aid of CUDA on three NVIDIA GPUs with different characteristics and with the aid of knowledge
