@@ -23,7 +23,11 @@ During my bachelor's degree program I acquired a firm understanding of both fron
 
 Currently, I am working part-time as a Game Developer for <a href="https://www.bongfish.com/">Bongfish GmbH</a>. There, I work on an internal project with Unreal Engine 5 and C++.
 
+
+
 ~~
+
+
 
 Check out two of my largest projects so far:
 
