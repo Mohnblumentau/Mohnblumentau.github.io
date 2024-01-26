@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, my name is Nadine. I strive to be the reliable and adaptable developer my team needs to create innovative and exciting games that fascinate and capture players. I'm very curious and eager to learn about new technologies and tools and I love to express my creativity by finding solutions to coding challenges. During my bachelor's degree I acquired a firm understanding of both frontend and backend software development, as well as connecting these areas. But ultimately, I decided for my master's degree to follow my passion and applied for a game developer-specific program.
 
-Currently, I am writing my master's thesis "Turning hand-drawn sketches into a functioning level with co-creative level design using adversarial deep reinforcement learning" at FH Salzburg which is done in C# with Unity and the ML-Agents Plugin, while also working part-time as a Game Developer for <a href="https://www.bongfish.com/">Bongfish GmbH</a>. There I work on an internal project with Unreal Engine 5 and C++.
+Currently, I am working part-time as a Game Developer for <a href="https://www.bongfish.com/">Bongfish GmbH</a>. There, I work on an internal project with Unreal Engine 5 and C++.
 
 ~~
 
