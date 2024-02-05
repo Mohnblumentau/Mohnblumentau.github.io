@@ -20,10 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, my name is Nadine. I aim to be the reliable and adaptable colleague my team needs to create innovative and exciting games that fascinate and capture players. I'm very curious and eager to learn about new technologies and tools and I love to express my creativity by finding solutions to coding challenges. During my bachelor's degree program I acquired a firm understanding of both frontend and backend software development, as well as connecting these areas. But ultimately, I decided to follow my passion and strive to gain a foothold in the gaming industry by collecting new experiences.
 
-
-
-
-
+<br />
+<br />
+<br />
 
 ~~
 
