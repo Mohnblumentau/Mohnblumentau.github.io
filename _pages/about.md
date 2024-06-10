@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Game Developer
+subtitle: Software Engineer and Game Developer
 
 profile:
   align: right
@@ -18,7 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Nadine. I aim to be the reliable and adaptable colleague my team needs to create innovative and exciting games that fascinate and capture players. I'm very curious and eager to learn about new technologies and tools and I love to express my creativity by finding solutions to coding challenges. During my bachelor's degree program I acquired a firm understanding of both frontend and backend software development, as well as connecting these areas. But ultimately, I decided to follow my passion and strive to gain a foothold in the gaming industry by collecting new experiences.
+Hi, my name is Nadine. As a dedicated software developer, I strive to be the reliable and flexible colleague who supports my team in developing an innovative software solution.
+During my application oriented bachelor's degree program I acquired a firm understanding of both frontend and backend software development, as well as connecting both areas in a multitude of different projects.
+
+I am very curious and eager to learn new technologies and I love expressing my creativity by finding solutions and strategies to complex programming problems. 
+Therefore, I am looking for an exciting and meaningful new role with professional development opportunities. 
 
 <br />
 <br />
