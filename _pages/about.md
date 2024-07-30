@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Nadine. As a dedicated game developer, I strive to be a reliable and flexible team member, supporting my colleagues in creating innovative and captivating games that engage and inspire players. 
+Hi, my name is Nadine. As a dedicated software and game developer, I strive to be the reliable and flexible colleague who supports my team in developing innovative solutions. During my practice-oriented bachelor's degree program, I gained a solid understanding of both frontend and backend software development, successfully bridging the two in various projects. I am very curious and eager to learn new technologies and I love expressing my creativity by finding solutions and strategies to complex programming problems. My favorite programming languages to date are Java, C/C++ and C#. Additionally, I enjoy working with SQL and NoSQL databases.
 
-During my bachelor's degree program, I gained a solid understanding of both frontend and backend software development, successfully bridging the two in various projects. Ultimately, I chose to pursue my passion for the gaming industry by seeking out new experiences and challenges.
+I have a great passion for game development, where I love crafting gameplay mechanics and working on the 3Cs (Character, Controls and Camera) in Unity and Unreal Engine to create immersive experiences that captivate players.
 
-I am curious and eager to learn new technologies, and I enjoy expressing my creativity by finding solutions to programming problems. Therefore, I am seeking an exciting and meaningful role that offers professional development opportunities.
+Therefore, I am seeking an exciting and meaningful role as a developer in the software or gaming industry that offers professional growth opportunities.
 
 <br />
 <br />
