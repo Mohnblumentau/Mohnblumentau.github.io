@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Game Developer
+subtitle: Software and Game Developer
 
 profile:
   align: right
